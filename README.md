@@ -6,9 +6,6 @@ The United States Geological Survey (USGS) is responsible for providing scientif
 
 The USGS aims to build new visualization tools to better understand and display their earthquake data. Despite collecting massive amounts of data worldwide daily, they lack a meaningful way to visualize it. This project addresses that need by developing a visualization tool to educate the public and government organizations about Earth's seismic activity.
 
-Module 15 Challenge files (Link to download provided)
-Instructions
-This activity is divided into two parts:
 
 Part 1: Create the Earthquake Visualization
 Your first task is to visualize an earthquake dataset. Follow these steps:
